@@ -1,0 +1,16 @@
+{
+  "name": "redis-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "install-redis": "node app.js",
+    "prettier": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "hakifred",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.8.2"
+  }
+}
